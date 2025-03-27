@@ -2,6 +2,8 @@
 
 This project is a personal time capsule—my very first attempt at building a website back in 2014, during my first semester as a computer science student. With no formal web experience at the time, I wanted to create a space to share my resume, showcase a few CLI Java projects I was working on, and honor the memory of my mom, who had recently passed away that year.
 
+The site was originally live at **JakeRyanDesign.com** and hosted through **GoDaddy.com**. It was my first experience purchasing a domain, setting up hosting, and deploying a project to the web—an exciting milestone that gave me a glimpse into the creative and technical possibilities of building for the internet.
+
 ## 🌱 Why This Project Matters to Me
 
 This site represents the beginning of my journey into software development. Looking back now, with over a decade of experience in the industry, I’m grateful for how far I’ve come—and proud of where it all started.
