@@ -2,7 +2,7 @@ body {
   line-height: 1.5;
   font-family: 'Pacifico', cursive;
   /* Full Page Background Receipe */
-  background: url('momlaying.jpg');
+  background: url('images/momlaying.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
